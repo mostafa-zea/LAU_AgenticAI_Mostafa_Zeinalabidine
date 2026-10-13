@@ -12,7 +12,9 @@ Open CLEAN_Agentic_Scenography.ipynb in Jupyter and follow the step-by-step inst
 
 Run the cells from top to bottom, starting with the installation of the required Python packages.
 
-New results are saved in a new folder inside outputs.
+The Blender scenes, rendered images and animations from the eight test sequences are available separately: [Download test outputs.](https://github.com/mostafa-zea/LAU_AgenticAI_Mostafa_Zeinalabidine/releases/tag/v1.0)
+
+Download and extract Test_outputs.zip to view them. These files are optional; running the agent creates new results inside outputs.
 
 
 
